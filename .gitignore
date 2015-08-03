@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+!.gitignore
+!*/
+# But not these files...
+!buildout.cfg
+!buildout.*.cfg
