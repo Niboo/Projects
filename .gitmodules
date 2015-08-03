@@ -4,3 +4,6 @@
 [submodule "RIA"]
 	path = RIA
 	url = https://samuellefever@bitbucket.org/niboo/buildout-ria.git
+[submodule "RBO"]
+	path = RBO
+	url = https://samuellefever@bitbucket.org/niboo/buildout-rbo.git
