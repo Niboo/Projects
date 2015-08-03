@@ -6,3 +6,5 @@
 # But not these files...
 !buildout.cfg
 !buildout.*.cfg
+!bootstrap.py
+!bootstrap_init.py
