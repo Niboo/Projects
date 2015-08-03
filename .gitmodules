@@ -1,0 +1,6 @@
+[submodule "WLN"]
+	path = WLN
+	url = git@devel.depfac.com:atos/buildout-wln.git
+[submodule "RIA"]
+	path = RIA
+	url = https://samuellefever@bitbucket.org/niboo/buildout-ria.git
