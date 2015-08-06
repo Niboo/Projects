@@ -3,7 +3,7 @@
 	url = git@devel.depfac.com:atos/buildout-wln.git
 [submodule "RIA"]
 	path = RIA
-	url = https://samuellefever@bitbucket.org/niboo/buildout-ria.git
+url=git@bitbucket.org:niboo/addons-ria.git
 [submodule "RBO"]
 	path = RBO
-	url = https://samuellefever@bitbucket.org/niboo/buildout-rbo.git
+url=git@bitbucket.org:niboo/buildout-rbo.git
