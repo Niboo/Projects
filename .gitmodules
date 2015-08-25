@@ -7,3 +7,9 @@ url=git@github.com:Niboo/buildout-RIA.git
 [submodule "RBO"]
 	path = RBO
 url=git@github.com:Niboo/buildout-RBO.git
+[submodule "FDA"]
+	path = FDA
+url=git@github.com:Niboo/buildout-FDA.git
+[submodule "NOM"]
+	path = NOM
+	url = git@github.com:Niboo/buildout-NOM.git
