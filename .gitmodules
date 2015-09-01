@@ -16,3 +16,6 @@ url=git@github.com:Niboo/buildout-FDA.git
 [submodule "ITP"]
 	path = ITP
 	url = git@github.com:Niboo/buildout-ITP.git
+[submodule "NIB"]
+	path = NIB
+	url = git@github.com:Niboo/buildout-NIB.git
