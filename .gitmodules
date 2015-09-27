@@ -19,3 +19,6 @@ url=git@github.com:Niboo/buildout-FDA.git
 [submodule "NIB"]
 	path = NIB
 	url = git@github.com:Niboo/buildout-NIB.git
+[submodule "CPT"]
+	path = CPT
+	url = git@github.com:Niboo/addons-CPT.git
