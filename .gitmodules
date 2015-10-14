@@ -22,3 +22,6 @@ url=git@github.com:Niboo/buildout-FDA.git
 [submodule "CPT"]
 	path = CPT
 	url = git@github.com:Niboo/addons-CPT.git
+[submodule "SAS"]
+	path = SAS
+	url = git@github.com:Niboo/buildout-SAS.git
