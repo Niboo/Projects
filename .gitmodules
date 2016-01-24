@@ -25,3 +25,6 @@ url=git@github.com:Niboo/buildout-CPT.git
 [submodule "SAS"]
 	path = SAS
 	url = git@github.com:Niboo/buildout-SAS.git
+[submodule "ALT"]
+	path = ALT
+	url = git@github.com:Niboo/buildout-ALT.git
