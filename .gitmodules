@@ -28,3 +28,6 @@ url=git@github.com:Niboo/buildout-CPT.git
 [submodule "ALT"]
 	path = ALT
 	url = git@github.com:Niboo/buildout-ALT.git
+[submodule "WPO"]
+	path = WPO
+	url = git@github.com:Niboo/buildout-WPO.git
