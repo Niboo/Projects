@@ -40,3 +40,6 @@ url=git@github.com:Niboo/buildout-CPT.git
 [submodule "ERG"]
 	path = ERG
 	url = git@github.com:Niboo/buildout-ERG.git
+[submodule "MVS"]
+	path = MVS
+	url = git@github.com:Niboo/buildout-MVS.git
