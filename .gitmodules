@@ -43,3 +43,6 @@ url=git@github.com:Niboo/buildout-CPT.git
 [submodule "MVS"]
 	path = MVS
 	url = git@github.com:Niboo/buildout-MVS.git
+[submodule "INO"]
+	path = INO
+url=git@github.com:Niboo/buildout-INO.git
