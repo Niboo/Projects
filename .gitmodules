@@ -46,3 +46,6 @@ url=git@github.com:Niboo/buildout-CPT.git
 [submodule "INO"]
 	path = INO
 url=git@github.com:Niboo/buildout-INO.git
+[submodule "MUL"]
+	path = MUL
+	url = git@github.com:Niboo/buildout-MUL.git
