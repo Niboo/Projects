@@ -52,3 +52,6 @@ url=git@github.com:Niboo/buildout-INO.git
 [submodule "DAN"]
 	path = DAN
 	url = git@github.com:Niboo/buildout-DAN.git
+[submodule "RIO"]
+	path = RIO
+	url = git@github.com:Niboo/buildout-RIO.git
