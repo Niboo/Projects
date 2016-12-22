@@ -55,3 +55,6 @@ url=git@github.com:Niboo/buildout-INO.git
 [submodule "RIO"]
 	path = RIO
 	url = git@github.com:Niboo/buildout-RIO.git
+[submodule "VET"]
+	path = VET
+	url = git@github.com:Niboo/buildout-VET.git
