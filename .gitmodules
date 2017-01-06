@@ -58,3 +58,6 @@ url=git@github.com:Niboo/buildout-INO.git
 [submodule "VET"]
 	path = VET
 	url = git@github.com:Niboo/buildout-VET.git
+[submodule "ERC"]
+	path = ERC
+	url = git@github.com:Niboo/buildout-ERC.git
