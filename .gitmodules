@@ -61,3 +61,6 @@ url=git@github.com:Niboo/buildout-INO.git
 [submodule "ERC"]
 	path = ERC
 	url = git@github.com:Niboo/buildout-ERC.git
+[submodule "BEL"]
+	path = BEL
+	url = git@github.com:Niboo/buildout-BEL.git
