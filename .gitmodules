@@ -64,3 +64,6 @@ url=git@github.com:Niboo/buildout-INO.git
 [submodule "BEL"]
 	path = BEL
 	url = git@github.com:Niboo/buildout-BEL.git
+[submodule "MAI"]
+	path = MAI
+	url = git@github.com:Niboo/buildout-MAI.git
