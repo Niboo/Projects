@@ -67,3 +67,6 @@ url=git@github.com:Niboo/buildout-INO.git
 [submodule "MAI"]
 	path = MAI
 	url = git@github.com:Niboo/buildout-MAI.git
+[submodule "STX"]
+	path = STX
+	url = git@github.com:Niboo/buildout-STX.git
