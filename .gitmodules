@@ -73,3 +73,6 @@ url=git@github.com:Niboo/buildout-INO.git
 [submodule "WLA"]
 	path = WLA
 	url = git@github.com:Niboo/buildout-WLA.git
+[submodule "LPR"]
+	path = LPR
+	url = git@gitlab.com:Niboo/buildout-LPR.git
