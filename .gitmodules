@@ -76,3 +76,6 @@ url=git@github.com:Niboo/buildout-INO.git
 [submodule "KBN"]
 	path = KBN
 	url = git@github.com:Niboo/buildout-KBN.git
+[submodule "OOG"]
+	path = OOG
+	url = git@gitlab.com:Niboo/buildout-OOG.git
